@@ -9,3 +9,10 @@ PASTAS
   -- API externa -- 
     A ideia dessa pasta é conter codigos onde peguei uma API publica e fiz o consumo.
 
+
+  -- API google_login -- 
+    A ideia aprender a fazer login com o google usando a API de login do google.
+    Primeiro irei utilizar PHP puro e depois implementar em algum projeto laravel
+
+
+
