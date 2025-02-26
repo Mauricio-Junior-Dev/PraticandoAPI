@@ -1,6 +1,7 @@
 # Ignorar dependências do Composer
 /vendor
 /composer.lock
+/composer.json
 
 # Ignorar arquivos de cache e logs
 /node_modules
