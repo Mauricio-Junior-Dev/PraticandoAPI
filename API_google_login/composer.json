@@ -2,7 +2,7 @@
     "name": "mau/api_google_login",
     "autoload": {
         "psr-4": {
-            "Mau\\ApiGoogleLogin\\": "src/"
+            "app\\": "app/"
         }
     },
     "authors": [
@@ -11,5 +11,7 @@
             "email": "mauriciobgsp@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "google/apiclient": "^2.18"
+    }
 }
