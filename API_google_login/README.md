@@ -1,4 +1,4 @@
-cd API_ligo_google   
+cd API_login_google   
 
 composer init  
 
