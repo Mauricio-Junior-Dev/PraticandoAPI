@@ -1,0 +1,15 @@
+{
+    "name": "mau/api_google_login",
+    "autoload": {
+        "psr-4": {
+            "Mau\\ApiGoogleLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MauMau221",
+            "email": "mauriciobgsp@gmail.com"
+        }
+    ],
+    "require": {}
+}
