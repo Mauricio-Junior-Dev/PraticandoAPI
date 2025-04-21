@@ -1,0 +1,23 @@
+# Ignorar dependências do Composer
+/vendor
+/composer.lock
+/composer.json
+
+# Ignorar arquivos de cache e logs
+/node_modules
+/storage
+*.log
+*.cache
+
+# Ignorar arquivos do ambiente local
+.env
+.env.local
+.env.*.local
+.phpunit.result.cache
+
+# Ignorar IDEs e editores de código
+.vscode/
+.idea/
+*.swp
+
+public/credentials.json
