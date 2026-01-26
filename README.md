@@ -11,7 +11,7 @@ PASTAS
 
 
   -- API google_login -- 
-    A ideia aprender a fazer login com o google API.
+    A ideia é aprender a fazer login com a API do google.
     Primeiro irei utilizar PHP puro e depois implementar em algum projeto laravel
 
 
